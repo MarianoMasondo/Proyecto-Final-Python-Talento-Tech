@@ -1,5 +1,4 @@
 
-# Proyecto-Final-Python-Talento-Tech
 # 🛒 Sistema de Gestión de Productos
 
 Trabajo final del curso de Python.
@@ -58,3 +57,5 @@ Con este proyecto pude practicar varios temas del curso:
 ## 👤 Autor
 
 Mariano
+
+# Proyecto-Final-Python-Talento-Tech
